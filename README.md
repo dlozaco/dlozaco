@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div>
 
   ![](https://nirzak-streak-stats.vercel.app/?user=dlozaco&theme=catppuccin_mocha&hide_border=false)
-  <img height="200" src="https://media.tenor.com/yjXPg6u8QB4AAAAM/fire-anime.gif" margin:20 />
+  <img height="200" src="https://media.tenor.com/yjXPg6u8QB4AAAAM/fire-anime.gif"/>
 </div>
 
 
