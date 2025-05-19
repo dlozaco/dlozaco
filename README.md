@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=dlozaco&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dlozaco&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=dlozaco&theme=catppuccin_mocha&hide_border=false)
 
+<div align="center">
+  <img height="200" src="https://media.tenor.com/yjXPg6u8QB4AAAAM/fire-anime.gif"  />
+</div>
+
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=dlozaco&icon=0&color=0)](https://visitcount.itsvg.in)
 
